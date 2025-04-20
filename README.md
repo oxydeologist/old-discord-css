@@ -1,7 +1,7 @@
 # old-discord-css
 Custom CSS to revert from Discord's (horrible) new UI to the old 2020 one
 
-Credit where it's due:
+# Credits
 Original Video : https://www.youtube.com/watch?v=Pt8z3jaDZYw
 
 Revert Visual Refresh Server List By Scabau (scattagain)
